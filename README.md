@@ -1,2 +1,2 @@
 # Privacy Policy
-The application requires access to Camera, Audio, and Contacts. This data isn't collected for any use, but the app has these permissions enabled.
+The application requires mainly, access to Camera and External Storage. This data isn't collected for any use, but the app has these permissions enabled in order to store them inside the application's directory. Places that this is used are the Reference and Process pages that allows the user to take pictures and or choose from existing locations from the user's device to be able to display them in the app.
